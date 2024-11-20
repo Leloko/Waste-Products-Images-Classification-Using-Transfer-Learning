@@ -1,2 +1,2 @@
 # Waste-Products-Images-Classification-Using-Transfer-Learning
-The aim of the project is to develop an automated waste classification model that can accurately differentiate between recyclable and organic waste based on images.
+This project aims to leverage machine learning and computer vision to automate the classification of waste products, improving efficiency and reducing contamination rates. Transfer learning with a pre-trained VGG16 model is used to classify images.
